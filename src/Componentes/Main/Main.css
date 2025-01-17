@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+.main {
+    background-color: #252525;
+    padding: 10% 4% 5%;
+}
+
+.FrontEnd {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 7%;
+}
+
+.titulo__frontend {
+    color: #F5F5F5;
+    margin-bottom: 3%;
+    text-align: center;
+    background-color: #6BD1FF;
+    padding: 15px 50px;
+    max-width: 15%;
+    border-radius: 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.imagem__card {
+    width: 432px;
+    height: 260px;
+}
+
+.cards__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card__frontend {
+    display: flex;
+    flex-direction: column;
+}
+
+.card__options--front {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    border: 5px solid #6BD1FF;
+    border-radius: 0 0 15px 15px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.paragrafo__options {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    color: #F5F5F5;
+    font-family: "Roboto", sans-serif;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+
+.BackEnd {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 7%;
+}
+
+.titulo__backend {
+    color: #F5F5F5;
+    margin-bottom: 3%;
+    text-align: center;
+    background-color: #00C86F;
+    padding: 15px 50px;
+    max-width: 15%;
+    border-radius: 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.card__backend {
+    display: flex;
+    flex-direction: column;
+}
+
+.card__options--back {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    border: 5px solid #00C86F;
+    border-radius: 0 0 15px 15px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.Mobile {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo__mobile {
+    color: #F5F5F5;
+    margin-bottom: 3%;
+    text-align: center;
+    background-color: #FFBA05;
+    padding: 15px 50px;
+    max-width: 15%;
+    border-radius: 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.card__mobile {
+    display: flex;
+    flex-direction: column;
+}
+
+.card__options--mobile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    border: 5px solid #FFBA05;
+    border-radius: 0 0 15px 15px;
+    background-color: rgba(0, 0, 0, 0.9);
+}

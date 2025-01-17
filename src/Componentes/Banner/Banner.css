@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+.banner {
+    background-color: #262626;
+    text-align: center;
+    height: 832px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.retangulo {
+    background-color: rgba(0, 18, 51, 0.56);
+    width: 100%;
+    height: 985px;
+    position: absolute;
+    top: 90px;
+    left: 0;
+    z-index: 1;
+}
+
+.textoBanner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    position: absolute; 
+    width: 80%;
+    margin: 30% 10% 10% 10%;
+}
+
+.container__texto {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-family: "Roboto", sans-serif;
+}
+
+.titulo__grande {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 0;
+    background-color: #6BD1FF;
+    padding: 15px 25px 15px 25px;
+    border-radius: 15px;
+    color: #F5F5F5;
+}
+
+.titulo {
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin-bottom: 0;
+    color: #F5F5F5;
+}
+
+.paragrafo {
+    margin-top: 0.5rem;
+    text-align: start;
+    font-weight: light;
+    font-size: 1.2rem;
+    color: #F5F5F5;
+}
+
+.textoBanner img {
+    width: 747px;
+    height: 415px;
+}
+
+.videoContainer {
+    position: relative;
+    width: 747px; 
+    height: 415px;
+    cursor: pointer;
+}
+
+.videoContainer iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.videoContainer img {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
