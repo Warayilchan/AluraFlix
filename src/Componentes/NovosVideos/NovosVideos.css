@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+.novos-videos {
+    background-color: #262626;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.titulo {
+    margin-top: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: bolder;
+    font-size: 3.7rem;
+    text-align: center;
+    color: #F5F5F5;
+}
+
+.paragrafo {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    text-align: center;
+    color: #F5F5F5;
+}
+
+.subtitulo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 2.2rem;
+    text-align: left;
+    color: #F5F5F5;
+    padding: 15px 0;
+    border-top: 1px solid rgba(245, 245, 245, 0.1);
+    border-bottom: 1px solid rgba(245, 245, 245, 0.1);
+}
+
+.formulario {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-right: 50%;
+    width: 80%;
+}
+
+.formulario label {
+    display: flex;
+    flex-direction: column;
+    color: #F5F5F5;
+    font-family: "Roboto", sans-serif;
+    font-weight: medium;
+    font-size: 1.25rem;
+
+}
+
+.formulario input {
+    padding: 15px;
+    margin-top: 5px;
+    width: 90%;
+    border: 3px solid rgba(245, 245, 245, 0.1);;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+.formulario select {
+    padding: 15px;
+    margin-top: 5px;
+    width: 95.2%;
+    border: 3px solid rgba(245, 245, 245, 0.1);;
+    background-color: transparent;
+    border-radius: 10px;
+    color: #F5F5F5;
+}
+
+.formulario option {
+    background-color: #262626;
+    color: white;
+}
+
+.desc input {
+    padding: 20% 15px;
+}
+
+.botao__save {
+    margin-top: 20px;
+    padding: 10px 20px;
+    width: 180px;
+    height: 54px;
+    font-size: 1.25rem;
+    border: 3px solid #2271D1;
+    border-radius: 10px;
+    background-color: transparent;
+    color: #F5F5F5;
+    cursor: pointer;
+}
+
+.botao__limp {
+    margin-top: 20px;
+    padding: 10px 20px;
+    width: 180px;
+    height: 54px;
+    font-size: 1.25rem;
+    border: 3px solid #F5F5F5;
+    border-radius: 10px;
+    background-color: transparent;
+    color: #F5F5F5;
+    cursor: pointer;
+}
