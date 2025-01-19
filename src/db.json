@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "O que faz uma desenvolvedora Front-End?",
+      "categoria": "Front End",
+      "imagem": "/imgs/image 1.png",
+      "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&ab_channel=Alura",
+      "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+    },
+    {
+      "id": "2",
+      "titulo": "Árvores Binárias",
+      "categoria": "Front End",
+      "imagem": "/imgs/image 2.png",
+      "video": "https://www.youtube.com/watch?v=NpJVZtgSY4U&list=PL5TJqBvpXQv7ipm2exZbbqwpFZc-TZ80s&index=1&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica",
+      "descricao": "Neste vídeo, começamos o estudo das árvores!!! Árvores são EXTREMAMENTE úteis na computação. Sério, é o tipo de conteúdo que vai mudar a sua vida, mas você tem que perseverar, pois há vários conceitos envolvidos e, por isso, dividi o assunto em alguns vídeos."
+    },
+    {
+      "id": "3",
+      "titulo": "O que é e o que faz quem trabalha com UX? User Experience e Usabilidade",
+      "categoria": "Front End",
+      "imagem": "/imgs/image 3.png",
+      "video": "https://www.youtube.com/watch?v=FJhMCi07T4A&ab_channel=Alura",
+      "descricao": "Chegou o episódio com a musa brasileira de UX, a Carla de Bona! Entenda a Experiência do Usuário e porque ela é importante para qualquer negócio, seja de produtos ou serviços."
+    },
+    {
+      "id": "4",
+      "titulo": "O que estudar para ser dev backend?",
+      "categoria": "Back End",
+      "imagem": "/imgs/image 4.png",
+      "video": "https://www.youtube.com/watch?v=3Wo4L2dPS58&ab_channel=CodeByDuda",
+      "descricao": "Algumas dicas para começar os estudos para ser dev backend"
+    },
+    {
+      "id": "5",
+      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+      "categoria": "Back End",
+      "imagem": "/imgs/image 5.png",
+      "video": "https://www.youtube.com/watch?v=6o6-bKOZOEY&ab_channel=GlauciaLemos",
+      "descricao": "Nesse vídeo vamos aprender um pouco mais o que seria o GitHub CLI e quais são as suas vantagens!"
+    },
+    {
+      "id": "6",
+      "titulo": "Qual é a melhor linguagem de programação?",
+      "categoria": "Back End",
+      "imagem": "/imgs/image 6.png",
+      "video": "https://www.youtube.com/watch?v=Uh-GNH-t89w&ab_channel=Alura",
+      "descricao": "PHP, JavaScript, Python, Java e outras... qual é a melhor? Como surgiram essas linguagens e quais as aplicações e usos de cada uma na aprendizagem e para o mercado? Descubra nesta conversa da Roberta Arcoverde e do Paulo Silveira."
+    },
+    {
+      "id": "7",
+      "titulo": "Desenvolvimento Android #HipstersPontoTube",
+      "categoria": "Mobile",
+      "imagem": "/imgs/image 7.png",
+      "video": "https://www.youtube.com/watch?v=fWscDFHKgw8&ab_channel=Alura",
+      "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!"
+    },
+    {
+      "id": "8",
+      "titulo": "React Native EU 2019: Emily Janzer - The New React Native",
+      "categoria": "Mobile",
+      "imagem": "/imgs/image 8.png",
+      "video": "https://www.youtube.com/watch?v=52El0EUI6D0&ab_channel=CallstackEngineers",
+      "descricao": ""
+    },
+    {
+      "id": "9",
+      "titulo": "[INCRÍVEL] Como Escrever Olá Mundo Em Javascript - Meu 1º Programa em apenas 08:02 min.",
+      "categoria": "Mobile",
+      "imagem": "/imgs/image 9.png",
+      "video": "https://www.youtube.com/watch?v=Ehn6mkA2EX8&ab_channel=DesenvolvedoresFullStack",
+      "descricao": "Como Escrever Olá Mundo Em Javascript (JS) de forma simples e fácil"
+    },
+    {
+      "id": "d02b",
+      "titulo": "Teste",
+      "categoria": "Front End",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sunset_in_Manaus.jpg",
+      "video": "https://www.youtube.com/watch?v=8JGPkxIemic&ab_channel=alanzoka",
+      "descricao": "Esse é um teste"
+    }
+  ]
+}

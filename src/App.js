@@ -9,12 +9,12 @@ import NovosVideos from './Componentes/NovosVideos';
 function App() {
   return (
     <Router>
-      <Header />
-      <Routes>
-        <Route path="/" element={<><Banner /><Main /></>} />
-        <Route path="/novo-video" element={<NovosVideos />} />
-      </Routes>
-      <Footer />
+        <Header />
+        <Routes>
+          <Route path="/" element={<><Banner /><Main /></>} />
+          <Route path="/novo-video" element={<NovosVideos />} />
+        </Routes>
+        <Footer />
     </Router>
   );
 }
