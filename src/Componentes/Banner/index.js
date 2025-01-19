@@ -17,12 +17,12 @@ function Banner () {
             </div>
         
             <div className="textoBanner"> 
-                <div className="container__texto">
+                <div className="container__texto--banner">
                     <h1 className="titulo__grande"> Front-End </h1>
                 
-                    <h2 className="titulo"> SEO com React </h2>
+                    <h2 className="titulo__banner"> SEO com React </h2>
                     
-                    <p className="paragrafo"> Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar uma app <br/> inspirada no desenho Pokémon com Nextjs e React, ver algumas dicas sobre <br/> performance e de quebra conhecer uma plataforma sensacional pra fazer deploy <br/> que é a Vercel. Tudo em 22 minutos nesse vídeo feito com todo o carinho do mundo <br/> construindo uma "Pokedex"! </p>
+                    <p className="paragrafo__banner"> Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar uma app <br/> inspirada no desenho Pokémon com Nextjs e React, ver algumas dicas sobre <br/> performance e de quebra conhecer uma plataforma sensacional pra fazer deploy <br/> que é a Vercel. Tudo em 22 minutos nesse vídeo feito com todo o carinho do mundo <br/> construindo uma "Pokedex"! </p>
                 </div>
 
                 <div className="videoContainer">

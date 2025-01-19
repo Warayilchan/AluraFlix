@@ -14,7 +14,7 @@
 .retangulo {
     background-color: rgba(0, 18, 51, 0.56);
     width: 100%;
-    height: 985px;
+    height: 1000px;
     position: absolute;
     top: 90px;
     left: 0;
@@ -33,12 +33,13 @@
     margin: 30% 10% 10% 10%;
 }
 
-.container__texto {
+.container__texto--banner {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     text-align: left;
     font-family: "Roboto", sans-serif;
+    gap: 20px;
 }
 
 .titulo__grande {
@@ -51,14 +52,14 @@
     color: #F5F5F5;
 }
 
-.titulo {
+.titulo__banner {
     font-weight: 400;
     font-size: 2.5rem;
     margin-bottom: 0;
     color: #F5F5F5;
 }
 
-.paragrafo {
+.paragrafo__banner {
     margin-top: 0.5rem;
     text-align: start;
     font-weight: light;

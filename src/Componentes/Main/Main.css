@@ -11,7 +11,7 @@
 .Mobile {
     display: flex;
     flex-direction: column;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
 
 .titulo__frontend,
@@ -57,7 +57,6 @@
 .cards__container--front::-webkit-scrollbar,
 .cards__container--back::-webkit-scrollbar,
 .cards__container--mobile::-webkit-scrollbar {
-    width: 1px;
     height: 15px;
 }
 

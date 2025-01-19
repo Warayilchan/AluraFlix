@@ -71,14 +71,6 @@
       "imagem": "/imgs/image 9.png",
       "video": "https://www.youtube.com/watch?v=Ehn6mkA2EX8&ab_channel=DesenvolvedoresFullStack",
       "descricao": "Como Escrever Olá Mundo Em Javascript (JS) de forma simples e fácil"
-    },
-    {
-      "id": "d02b",
-      "titulo": "Teste",
-      "categoria": "Front End",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sunset_in_Manaus.jpg",
-      "video": "https://www.youtube.com/watch?v=8JGPkxIemic&ab_channel=alanzoka",
-      "descricao": "Esse é um teste"
     }
   ]
 }

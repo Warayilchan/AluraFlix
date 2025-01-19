@@ -130,7 +130,7 @@ function NovosVideos() {
                         placeholder="Sobre o que é esse Vídeo?"
                     />
                 </label>
-                <div className="botoes">
+                <div className="botoes__novovid">
                     <button className="botao__save" type="submit"> 
                         Guardar 
                     </button>

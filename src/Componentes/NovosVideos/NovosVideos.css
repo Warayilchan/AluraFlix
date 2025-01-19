@@ -136,9 +136,10 @@
     border-radius: 5px;
 }
 
-.botoes {
+.botoes__novovid {
     display: flex;
     margin-top: 20px;
+    gap: 50px;
     grid-column: span 2;
 }
 

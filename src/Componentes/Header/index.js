@@ -2,14 +2,13 @@ import "./Header.css";
 import { Link, useLocation } from 'react-router-dom';  
 
 function Header() {
-    const location = useLocation();  // Usamos o hook para pegar a URL atual
+    const location = useLocation();
 
     return (
         <header className="header">
             <img src="/imgs/LogoMain.png" alt="Logo" />
-            <div className="botoes">
+            <div className="botoes__header">
                 
-                {/* Link para Home - aplica classe diferente se a URL for "/" */}
                 <Link to="/">
                     <button 
                         className={`botao__home ${location.pathname === '/' ? 'ativo' : ''}`}>
@@ -17,7 +16,6 @@ function Header() {
                     </button>
                 </Link>
                 
-                {/* Link para Novo Vídeo - aplica classe diferente se a URL for "/novo-video" */}
                 <Link to="/novo-video">
                     <button 
                         className={`botao__novoVid ${location.pathname === '/novo-video' ? 'ativo' : ''}`}>
